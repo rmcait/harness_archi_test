@@ -1,0 +1,9 @@
+name: harness_archi_test
+version: 1.0.0
+description: APM project for harness_archi_test
+author: OmaeRio
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}
